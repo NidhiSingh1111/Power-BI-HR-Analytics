@@ -19,13 +19,21 @@ HR teams can use its capabilities to make smart decisions and effectively manage
 ---
 
 Technologies Used :
+
 📈 Power BI
+
 🔢 Advanced Excel
 
 ---
 
 Steps Overview :
+
 Data subset collected from online.
+
 Understanding the Data.
+
 Data Cleaning & Finding Missing values.
+
+Removing Duplicates.
+
 Data Visualization.
